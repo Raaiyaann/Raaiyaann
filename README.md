@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Welcome To My Profile, I am Raiyan!
+# WELCOME !
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Raiyan+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%93%8A;Always+Learning+%F0%9F%A7%A0" alt="Typing SVG" />
 
