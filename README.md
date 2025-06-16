@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="80" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Raiyan!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img height="80" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Raiyan!" alt="Typing SVG" />
 </div>
 
 <h4 align="center">🎓 Undergraduate student of Informatics Engineering at Tadulako University</h4>
