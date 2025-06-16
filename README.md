@@ -7,8 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ### 🎓 Informatics Engineering Student | Tadulako University
-### 🌟 Passionate about crafting digital solutions that make a difference
-<h3 align="center">🧠 I'm 20 years old and passionate about Web Development & Data Science</h3>
+<h3>🧠 I'm 20 years old and passionate about Web Development & Data Science</h3>
 
 <img src="https://komarev.com/ghpvc/?username=Raaiyaann&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
