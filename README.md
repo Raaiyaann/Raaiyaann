@@ -14,11 +14,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
----
 
 ## 🛠️ Tech Stack & Skills
 
