@@ -38,16 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaiyaann&layout=compact&theme=gruvbox&cache_seconds=1800" width="45%" />
 </p>
 
----
 
-
-## 🔄 Contribution Graph (Activity)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raaiyaann&theme=gruvbox" />
-</p>
-
----
 ## 🤝 Let's Connect!
 <p align="center">
   <a href="mailto:moh.raiyan99@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
