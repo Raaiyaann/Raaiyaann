@@ -36,10 +36,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Raaiyaann&show_icons=true&theme=gruvbox&cache_seconds=1800" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaiyaann&layout=compact&theme=gruvbox&cache_seconds=1800" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Raaiyaann&show_icons=true&theme=radical&cache_seconds=1800" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaiyaann&layout=compact&theme=radical&cache_seconds=1800" width="45%" />
 </p>
-
 
 ## 🤝 Let's Connect!
 <p align="center">
