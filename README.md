@@ -1,6 +1,6 @@
 <div align="center">
   
-# HI, I AM RAIYAN!
+# HI, I AM MOHAMMAD RAIYAN!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=600&duration=1500&color=F97316&center=true&vCenter=true&width=600&lines=BackEnd+Developer+🚀;Data+Science+Enthusiast+📊;Always+Learning+🧠" alt="Typing SVG" />
 
@@ -9,7 +9,7 @@
 
 ### 🎓 Informatics Engineering Student | Tadulako University
 <h3>🧠 I'm 20 years old and passionate about Web Development & Data Science</h3>
-
+<h3>FUN FACT! Aku Sangat Suka Bermain Gitar Akustikk</h3>
 <img src="https://komarev.com/ghpvc/?username=Raaiyaann&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
