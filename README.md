@@ -9,7 +9,6 @@
 
 ### 🎓 Informatics Engineering Student | Tadulako University
 <h3>🧠 I'm 20 years old and passionate about Web Development & Data Science</h3>
-<h3>FUN FACT! Aku Sangat Suka Bermain Gitar Akustikk</h3>
 <img src="https://komarev.com/ghpvc/?username=Raaiyaann&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
