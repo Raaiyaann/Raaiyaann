@@ -46,3 +46,12 @@
 </p>
 
 ---
+
+
+**Fungsi**
+Mengatur seberapa besar potongan teks untuk embedding.
+
+| Arah tuning               | Efek                                              |
+| ------------------------- | ------------------------------------------------- |
+| **Lebih besar** (400–600) | jadi saat saya set chunk nya itu di 500 hasilnya itu semakin banyak jawaban yang       diberikan, kemudian total chunk yang di ingested itu sebanyak 3 chunk dengan waktu 507ms untuk mengambil datanya. Dan waktu saat melakukan generate textnya itu 1208.1 ms (jawab) |
+| **Lebih kecil** (150–250) |  waktu untuk ingest datanya itu 620.7ms dengan total 8 chunks,  waktu untuk generate textnya itu 1062ms. (jawab) |
